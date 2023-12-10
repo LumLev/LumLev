@@ -1,1 +1,1 @@
-I'm only here to read .NET or Blazor Microsoft repos.
+I'm only here to read .NET or Microsoft repos.
